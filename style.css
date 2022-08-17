@@ -1,0 +1,110 @@
+body{
+    background-image: url(../img/cataede.png);
+    background-position-x: -100px;
+    background-position-y: 150px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 500px;
+    margin:0;
+    background-color: aquamarine;
+    cursor: url(../cursor/Kaede\ Normal\ Select.cur), auto;
+}
+header {
+    background-color:#ffb7aa;
+    font-family: 'Courier New', Courier, monospace;
+    border-bottom: 5px double rgb(224, 142, 224);
+}
+header h1 {
+    margin-left:5%;
+    margin-top:40px;
+    padding:30px 0px 0px 0px;
+    vertical-align: center;
+}
+nav {
+    background-color:#fcf;
+    overflow: hidden;
+    border-bottom:5px double orange;
+    position:fixed;
+    width:100%;
+    height:40px;
+    top:0;
+}
+nav a {
+    background-color:#dad;
+    padding:10px 30px;
+    text-align: center;
+    text-decoration:none;
+    vertical-align: middle;
+    height:40px;
+    float:left;
+}
+nav a:hover {
+    text-decoration:3px underline;
+    background-color:#b8b;
+}
+nav a:active {
+    text-decoration-thickness: 3px;
+    background-color:#969;
+    color:orange;
+}
+.current {
+    background-color: rgb(223, 118, 118);
+    text-decoration: none;
+}
+aside {
+    text-align:center;
+    margin-bottom:15px;
+}
+section {
+    background-color: #e1ffa8;
+    border:5px double rgb(255, 107, 181);
+    border-radius:5px;
+    margin:15px 5% 15px 300px;
+    font-family: monospace;
+}
+section p {
+    margin-left:3%;
+}
+section h2 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    text-decoration: 1px dashed black;
+    margin-bottom:0;
+}
+section h3 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    text-decoration: 1px dashed black;
+    margin-bottom:0;
+}
+section p {
+    font-size: 14px;
+}
+.rightfig {
+    padding:10px;
+    width:15%;
+}
+section hr {
+    width:70%;
+    border-top:3px solid rgb(255, 107, 181);
+}
+.emailentry {
+    width:30%;
+    max-width:200px;
+}
+.genentry {
+    width:7%;
+    max-width: 140px;
+}
+section form * {
+    margin:5px 0px 5px 10px;
+}
+.genform {
+    border:5px double rgb(255, 107, 181);
+    width:70%;
+    max-width:900px;
+    margin:auto;
+}
+.cap {
+    text-align: center;
+}

@@ -1,0 +1,39 @@
+﻿[Arrow]
+Path=Kaede Normal Select.cur
+
+[Help]
+Path=Kaede Help Select.cur
+
+[AppStarting]
+Path=Kaede Working In Background.ani
+
+[Crosshair]
+Path=Kaede Precision Select.cur
+
+[IBeam]
+Path=Kaede Text Select.cur
+
+[No]
+Path=Kaede Unavailable.cur
+
+[SizeNS]
+Path=Kaede Vertical Resize.ani
+
+[SizeWE]
+Path=Kaede Horizontal Resize.ani
+
+[SizeNWSE]
+Path=Kaede Diagonal Resize 1.ani
+
+[SizeNESW]
+Path=Kaede Diagonal Resize 2.ani
+
+[SizeAll]
+Path=Kaede Move.cur
+
+[UpArrow]
+Path=Kaede Alternate Select.cur
+
+[Hand]
+Path=Kaede Link Select.cur
+
